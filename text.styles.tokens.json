@@ -1,482 +1,219 @@
-{
-  "extra-small-text": {
-    "cn-regular": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 10 px / 行高 14 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "10px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "14px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-regular": {
-      "$type": "typography",
-      "$description": " Inter：字号 10 px / 行高 14 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "10px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "14px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-regular": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 10 px / 行高 14 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "10px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "14px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "cn-medium": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 10 px / 行高 14 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "10px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "14px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-medium": {
-      "$type": "typography",
-      "$description": " Inter：字号 10 px / 行高 14 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "10px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "14px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-medium": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 10 px / 行高 14 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "10px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "14px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    }
+
+[
+  {
+    "name": "extra-small-text/cn-regular",
+    "key": "4fa85da949cc0b978b4f61bd0ba9f2d7d9274bf4",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Regular"
   },
-  "small-text": {
-    "cn-regular": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 12 px / 行高 16 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "12px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "16px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "cn-medium": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 12 px / 行高 16 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "12px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "16px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-regular": {
-      "$type": "typography",
-      "$description": " Inter：字号 12 px / 行高 16 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "12px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "16px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-medium": {
-      "$type": "typography",
-      "$description": " Inter：字号 12 px / 行高 16 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "12px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "16px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-regular": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 12 px / 行高 16 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "12px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "16px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-medium": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 12 px / 行高 16 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "12px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "16px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    }
+  {
+    "name": "extra-small-text/en-regular",
+    "key": "c1828a88a497766c7dfddef90fc637250a610e35",
+    "fontFamily": "Inter",
+    "fontStyle": "Regular"
   },
-  "paragraph": {
-    "cn-regular": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "14px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "cn-medium": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "14px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "cn-semibold": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "14px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-regular": {
-      "$type": "typography",
-      "$description": " Inter：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "14px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-medium": {
-      "$type": "typography",
-      "$description": " Inter：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "14px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-semibold": {
-      "$type": "typography",
-      "$description": " Inter：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "14px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-regular": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "14px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-medium": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "14px",
-        "fontWeight": 500,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-bold": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 14 px / 行高 20 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "14px",
-        "fontWeight": 700,
-        "letterSpacing": "0%",
-        "lineHeight": "20px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    }
+  {
+    "name": "extra-small-text/jp-regular",
+    "key": "a4a2338c70c78882829d45e96e0297101cfe8944",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Regular"
   },
-  "heading": {
-    "cn-regular": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 16 px / 行高 22 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "16px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "22px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "cn-semibold": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 16 px / 行高 22 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "16px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "22px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-regular": {
-      "$type": "typography",
-      "$description": " Inter：字号 16 px / 行高 22 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "16px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "22px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-semibold": {
-      "$type": "typography",
-      "$description": " Inter：字号 16 px / 行高 22 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "16px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "22px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-regular": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 16 px / 行高 22 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "16px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "22px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-bold": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 16 px / 行高 22 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "16px",
-        "fontWeight": 700,
-        "letterSpacing": "0%",
-        "lineHeight": "22px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    }
+  {
+    "name": "extra-small-text/cn-medium",
+    "key": "c70fe39fb7889b3974b01d39ee9f2f0571a2bed2",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Medium"
   },
-  "heading-large": {
-    "cn-regular": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 18 px / 行高 24 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "18px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "24px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "cn-semibold": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 18 px / 行高 24 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "18px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "24px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-regular": {
-      "$type": "typography",
-      "$description": " Inter：字号 18 px / 行高 24 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "18px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "24px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-semibold": {
-      "$type": "typography",
-      "$description": " Inter：字号 18 px / 行高 24 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "18px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "24px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-regular": {
-      "$type": "typography",
-      "$description": " Noto Sans：字号 18 px / 行高 24 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "18px",
-        "fontWeight": 400,
-        "letterSpacing": "0%",
-        "lineHeight": "24px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-bold": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 18 px / 行高 24 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "18px",
-        "fontWeight": 700,
-        "letterSpacing": "0%",
-        "lineHeight": "24px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    }
+  {
+    "name": "extra-small-text/en-medium",
+    "key": "0163e1a8e675d4d39cbb9be5621a45adacf216dd",
+    "fontFamily": "Inter",
+    "fontStyle": "Medium"
   },
-  "heading-extra-large": {
-    "cn-semibold": {
-      "$type": "typography",
-      "$description": " PingFang SC：字号 24 px / 行高 32 px",
-      "$value": {
-        "fontFamily": "PingFang SC",
-        "fontSize": "24px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "32px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "en-semibold": {
-      "$type": "typography",
-      "$description": " Inter：字号 24 px / 行高 32 px",
-      "$value": {
-        "fontFamily": "Inter",
-        "fontSize": "24px",
-        "fontWeight": 600,
-        "letterSpacing": "0%",
-        "lineHeight": "32px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    },
-    "jp-bold": {
-      "$type": "typography",
-      "$description": " Noto Sans JP：字号 24 px / 行高 32 px",
-      "$value": {
-        "fontFamily": "Noto Sans JP",
-        "fontSize": "24px",
-        "fontWeight": 700,
-        "letterSpacing": "0%",
-        "lineHeight": "32px",
-        "textTransform": "none",
-        "textDecoration": "none"
-      }
-    }
+  {
+    "name": "extra-small-text/jp-medium",
+    "key": "1449a9ef6e226c3b1b017f1cd48ad865e3542c1b",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "small-text/cn-regular",
+    "key": "75dc601e3049a4b15482a3795a2a12c534373bd3",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "small-text/cn-medium",
+    "key": "a1595e289ddd5f51c08fe68e4cc9e1ede7ea2489",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "small-text/en-regular",
+    "key": "e2ace6bb486f107ca3b89bdb674c2727f05df33f",
+    "fontFamily": "Inter",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "small-text/en-medium",
+    "key": "18c17d1363b577da0ea87f1131ea7b0fa0c97aaa",
+    "fontFamily": "Inter",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "small-text/jp-regular",
+    "key": "84cd5a0484de5862c060a75d94b2f7af5fb0b193",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "small-text/jp-medium",
+    "key": "1ae9586dd17a9367c601240e3c3258560d063e85",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "paragraph/cn-regular",
+    "key": "0875fd61689c0a8448e1f24ea3c588701027a830",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "paragraph/cn-medium",
+    "key": "9aa5ffd6e7c05d8919e37cfdda6f6522f32435fc",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "paragraph/cn-semibold",
+    "key": "9576027594b9e11459f3ae11b48d0d4ce7ccf269",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Semibold"
+  },
+  {
+    "name": "paragraph/en-regular",
+    "key": "582808e9ed1e45965d99ce7fee0db18ee0b461e3",
+    "fontFamily": "Inter",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "paragraph/en-medium",
+    "key": "5c3c04ede8efd9a97578cf9c6d8b08a636276d08",
+    "fontFamily": "Inter",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "paragraph/en-semibold",
+    "key": "cfe76cae2e51d92e4bb50e7868d7edf6c2726cbc",
+    "fontFamily": "Inter",
+    "fontStyle": "Semi Bold"
+  },
+  {
+    "name": "paragraph/jp-regular",
+    "key": "548f2ea0418e7aeed3035d6427a232322d56ad08",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "paragraph/jp-medium",
+    "key": "0f5ad413fceeef49d0b8419c8c968d3087f2f8a4",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Medium"
+  },
+  {
+    "name": "paragraph/jp-bold",
+    "key": "13911898d7aff23d738737625c2fb3cb3ce850ad",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Bold"
+  },
+  {
+    "name": "heading/cn-regular",
+    "key": "e2f08c1f5d0a981a05a892a67878f7baa6d18eed",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "heading/cn-semibold",
+    "key": "82060201672481e14871c6a2e939ad37cea0ab00",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Semibold"
+  },
+  {
+    "name": "heading/en-regular",
+    "key": "18c096d4e02612cd5ed46e92aa9ad0341bf03c6c",
+    "fontFamily": "Inter",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "heading/en-semibold",
+    "key": "a8eae4b49f851e3a4ec1f6a8e07bc18303d150aa",
+    "fontFamily": "Inter",
+    "fontStyle": "Semi Bold"
+  },
+  {
+    "name": "heading/jp-regular",
+    "key": "179b413d2c01999d00645f8b56675fdde33a2122",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "heading/jp-bold",
+    "key": "3475eb04b077aa1c435758f3c468345df8308c1a",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Bold"
+  },
+  {
+    "name": "heading-large/cn-regular",
+    "key": "98f42e0b5452f8599325e30fe43050fc9cf1e6dc",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "heading-large/cn-semibold",
+    "key": "4974183153280003a567606ae83e220a3d0b85c9",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Semibold"
+  },
+  {
+    "name": "heading-large/en-regular",
+    "key": "0afec44e70a9790e8c540939414247bc71b4f711",
+    "fontFamily": "Inter",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "heading-large/en-semibold",
+    "key": "fee7d19fd3666e20ebd2eb2aad05fb50e2ef2be6",
+    "fontFamily": "Inter",
+    "fontStyle": "Semi Bold"
+  },
+  {
+    "name": "heading-large/jp-regular",
+    "key": "b3c51b05c5effba23a0670816b8ba38fe219b8dd",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Regular"
+  },
+  {
+    "name": "heading-large/jp-bold",
+    "key": "54f94dbd783e1b5af4b3245284cab764d8c1e19e",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Bold"
+  },
+  {
+    "name": "heading-extra-large/cn-semibold",
+    "key": "0a9f87287a294833cf14f40249d9642761bedc9d",
+    "fontFamily": "PingFang SC",
+    "fontStyle": "Semibold"
+  },
+  {
+    "name": "heading-extra-large/en-semibold",
+    "key": "b1bc4006e953e50889d7c0057d0473e3895a6b69",
+    "fontFamily": "Inter",
+    "fontStyle": "Semi Bold"
+  },
+  {
+    "name": "heading-extra-large/jp-bold",
+    "key": "cefb4d5e6aac0ec8004e201e9d3c2aebac79dedb",
+    "fontFamily": "Noto Sans JP",
+    "fontStyle": "Bold"
   }
-}
+]
